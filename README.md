@@ -1,12 +1,12 @@
 # Web-Hosting-With-Nginx-On-AWS-Cloud
-**This repository contains a web application hosted on the AWS cloud.*
+This repository contains a web application hosted on the AWS cloud.
 
 Welcome! This README guide walks you through the process of provisioning, configuring, deploying, and securing a landing page for a startup project (named Sentinel Healthguard) using AWS EC2 and Nginx. It doesn't matter if you’re new to cloud deployments or simply want to see how I set up this environment, you'll find every step detailed below. Feedback is highly appreciated.
 
 ## 1. Server Provisioning Steps
 To get started, I provisioned an Ubuntu server on AWS EC2. Here’s exactly how I did it:
 
-- Signed in to AWS Management Console: I logged into my AWS account and got to the EC2 dashboard.
+a. Signed in to AWS Management Console: I logged into my AWS account and got to the EC2 dashboard.
 
 b. Launched a New EC2 Instance: I clicked “Launch Instance” and selected the latest Ubuntu Server AMI (Amazon Machine Image).
 
